@@ -23,7 +23,7 @@ A modern, responsive React application built with Vite, Tailwind CSS, and React 
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/musyoka-exe/react-task-management.git
 cd react-task-manager
 ```
 
