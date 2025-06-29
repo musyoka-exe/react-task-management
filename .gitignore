@@ -21,3 +21,13 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+// -            React 18
+
+node_modules/
+dist/
+.env
+.vscode/
+.DS_Store
+npm-debug.log
